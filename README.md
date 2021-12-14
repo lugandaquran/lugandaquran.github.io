@@ -1,9 +1,9 @@
 
 <html>
  <head>
+<meta name="google-site-verification" content="neuVuC1NKxUqXmmTg9c3fXteeiFq2J94QyeI_ShFkyo" />
 	 <title>quran download</title>
 	 <meta charset="UTF-8"/>
-<meta name="google-site-verification" content="neuVuC1NKxUqXmmTg9c3fXteeiFq2J94QyeI_ShFkyo" />
 <meta name="viewport"
   content="width=device-width, initial-scale=1.0"/>
 	 <style>
