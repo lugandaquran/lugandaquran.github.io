@@ -32,11 +32,11 @@ It's the same to our app we shall make  an update for it inshallah.
 
 Thank you.
 </p>
-<center>
+
 <marquee><img align= "left" src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/>
 
 <h1>DOWNLOAD FROM HERE</h1>
-</center></marquee>
+</marquee>
 <b>
 <!--<a href="https://drive.google.com/uc?export=download&id="target= "_self">
 Al-Fatiha
