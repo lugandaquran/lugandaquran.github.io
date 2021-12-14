@@ -232,5 +232,5 @@ Al-Buruji
 <a href="mailto:lugandaquran@gmail.com">
 <a href="#" class="fa fa-google"/></a></center>
 
-<p>Brothers and Sisters please try out this good web site too </p><a href="OpenMaktaba.com" target="_blank">OpenMaktaba.com</a><!--</body>
+<p>Brothers and Sisters please try out this good web site too </p><a href="https://openmaktaba.com" target="_blank">OpenMaktaba.com</a><!--</body>
  </html>-->
