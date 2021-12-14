@@ -141,7 +141,7 @@ Az-Zalzalah
 <center>
 <a href="https://drive.google.com/uc?export=download&id=12PIOv5oOwcHiWT4iKdyqqZCbpzVAOhbi"
  target= "_self">
-<p>Al-Bainah</p>
+Al-Bainah
 </a>
 </center>
 <center>
@@ -228,5 +228,5 @@ Al-Buruji
 <center>
 <a href="mailto:lugandaquran@gmail.com" target="_parent">
 <a href="#" class="fa fa-google"/></a></center>
-	 </body>
+</body>
  </html>
