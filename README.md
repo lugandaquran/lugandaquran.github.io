@@ -34,7 +34,7 @@ Thank you.
 </p>
 <center>
 <marquee><img align= "left" src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/>
-</center><center>
+
 <h1>DOWNLOAD FROM HERE</h1>
 </center></marquee>
 <b>
@@ -217,11 +217,12 @@ At-Tariq
 </center>
 <center>
 <a href="https://drive.google.com/uc?export=download&id=12U53pGAtj3-hNE-v8ELSE8e8gGfgpL38"
-target= "_self">
+target="_self">
 Al-Buruji
 </a>
 </center>
-<marquee><center><img align= "left"  src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/></center><center><h2>Luganda Quran</h2></center></marquee>
+<br>
+<marquee><center><img align= "left"  src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/><h2>Luganda Quran</h2></center></marquee>
 
 <center><footer>Contact Me</footer></center>
 <br>
