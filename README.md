@@ -224,6 +224,7 @@ Al-Buruji
 </a>
 </center>
 
+<p>Brothers and Sisters please try out this good web site too </p><a href="https://openmaktaba.com" target="_blank">OpenMaktaba.com</a>
 <marquee><center><img align= "left"  src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/><h2>Luganda Quran</h2></center></marquee>
 
 <center><footer>Contact Me</footer></center>
@@ -232,5 +233,5 @@ Al-Buruji
 <a href="mailto:lugandaquran@gmail.com">
 <a href="#" class="fa fa-google"/></a></center>
 
-<p>Brothers and Sisters please try out this good web site too </p><a href="https://openmaktaba.com" target="_blank">OpenMaktaba.com</a><!--</body>
+<!--</body>
  </html>-->
