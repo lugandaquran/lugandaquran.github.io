@@ -3,8 +3,10 @@
  <head>
 	 <title>quran download</title>
 	 <meta charset="UTF-8"/>
+<meta name="viewport"
+  content="width=device-width, initial-scale=1.0"/>
 	 <style>
-	 .fa {I
+	 .fa {
 	 
 	 width:80px;
 	 padding:20px;
@@ -228,5 +230,5 @@ Al-Buruji
 <center>
 <a href="mailto:lugandaquran@gmail.com" target="_parent">
 <a href="#" class="fa fa-google"/></a></center>
-</body>
- </html>
+<!--</body>
+ </html>-->
