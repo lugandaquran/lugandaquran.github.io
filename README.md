@@ -38,10 +38,10 @@ Thank you.
 <h1>DOWNLOAD FROM HERE</h1>
 </marquee>
 <b>
-<!--<a href="https://drive.google.com/uc?export=download&id="target= "_self">
+<a href="https://drive.google.com/uc?export=download&id=12v5H4wFpeZg26YhxmP8Q6FvB8x0xoIrh"  target="_self">
 Al-Fatiha
 </a>
-</center>-->
+</center>
 <center>
 <a href="https://drive.google.com/uc?export=download&id=11Z5Ivaos1o22te9BNQVEucjbLTILn3V1" 
  target= "_self">
