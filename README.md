@@ -221,13 +221,13 @@ target="_self">
 Al-Buruji
 </a>
 </center>
-<br>
+
 <marquee><center><img align= "left"  src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/><h2>Luganda Quran</h2></center></marquee>
 
 <center><footer>Contact Me</footer></center>
-<br>
+
 <center>
-<a href= "mailto:lugandaquran@gmail.com" target= "_parent">
+<a href="mailto:lugandaquran@gmail.com" target= "_parent">
 <a href= "#" class="fa fa-google"/></a></center>
 	 </body>
  </html>
