@@ -39,7 +39,7 @@ Thank you.
 
 <h1>DOWNLOAD FROM HERE</h1>
 </marquee>
-
+<center>
 <a href="https://drive.google.com/uc?export=download&id=12v5H4wFpeZg26YhxmP8Q6FvB8x0xoIrh"  target="_self">
 Al-Fatiha
 </a>
@@ -228,7 +228,7 @@ Al-Buruji
 <center><footer>Contact Me</footer></center>
 
 <center>
-<a href="mailto:lugandaquran@gmail.com" target="_parent">
+<a href="mailto:lugandaquran@gmail.com">
 <a href="#" class="fa fa-google"/></a></center>
 <!--</body>
  </html>-->
