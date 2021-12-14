@@ -38,7 +38,7 @@ Thank you.
 
 <marquee><img align= "left" src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/>
 
-<h1>DOWNLOAD FROM HERE</h1>
+<h1>CLICK BELOW TO DOWNLOAD</h1>
 </marquee>
 <center>
 <a href="https://drive.google.com/uc?export=download&id=12v5H4wFpeZg26YhxmP8Q6FvB8x0xoIrh"  target="_self">
