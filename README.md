@@ -19,9 +19,9 @@
  </head>
 	 <body>
 <center><img align= "left" src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/><h1>DOWNLOAD LUGANDA TRANSLATED QURAN</h1></center>
-<br>
+
 <center><img src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm"/></center>
-<br>
+
 <p>Assalam Alaikum Warahmatullahi Wabarakatuh my muslim <b><small>brothers and sisters</small>, Alhamdullillah </b>, you have visited this page . The major interest for creating this web page is to provide you with downloads for <b> Luganda Translated Quran  <small>audio files</small></b>.  It's meant for those who speak , listen and understand Luganda from any Country.
 
 Looking forwad to updating and adding more audio files , per now they're only 30 in number but soon will be increased in number  inshallah.
@@ -37,7 +37,7 @@ Thank you.
 
 <h1>DOWNLOAD FROM HERE</h1>
 </marquee>
-<b>
+
 <a href="https://drive.google.com/uc?export=download&id=12v5H4wFpeZg26YhxmP8Q6FvB8x0xoIrh"  target="_self">
 Al-Fatiha
 </a>
@@ -226,7 +226,7 @@ Al-Buruji
 <center><footer>Contact Me</footer></center>
 
 <center>
-<a href="mailto:lugandaquran@gmail.com" target= "_parent">
-<a href= "#" class="fa fa-google"/></a></center>
+<a href="mailto:lugandaquran@gmail.com" target="_parent">
+<a href="#" class="fa fa-google"/></a></center>
 	 </body>
  </html>
