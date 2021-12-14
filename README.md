@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
  <head>
 	 <title>quran download</title>
 	 <meta charset="UTF-8"/>
@@ -21,26 +22,26 @@
 <br>
 <center><img src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm"/></center>
 <br>
-<p>Assalam Alaikum Warahmatullahi Wabarakatuh my muslim <b> brothers and sisters, Alhamdullillah , you have visited this page . </br> The major interest for creating this web site is to provide you with downloads for <b> Luganda Translated Quran  <small>audio files</small></b>.  It's meant for those who speak , listen and understand Luganda from any Country.
+<p>Assalam Alaikum Warahmatullahi Wabarakatuh my muslim <b><small>brothers and sisters</small>, Alhamdullillah </b>, you have visited this page . The major interest for creating this web page is to provide you with downloads for <b> Luganda Translated Quran  <small>audio files</small></b>.  It's meant for those who speak , listen and understand Luganda from any Country.
 
 Looking forwad to updating and adding more audio files , per now they're only 30 in number but soon will be increased in number  inshallah.
 It's the same to our app we shall make  an update for it inshallah.
 
 <b>Any mistakes found in these audio files were not intended.
 </b>
+
 Thank you.
 </p>
-<b>
 <center>
 <marquee><img align= "left" src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/>
 </center><center>
 <h1>DOWNLOAD FROM HERE</h1>
 </center></marquee>
 <b>
-<a href="https://drive.google.com/uc?export=download&id="target= "_self">
+<!--<a href="https://drive.google.com/uc?export=download&id="target= "_self">
 Al-Fatiha
 </a>
-</center>
+</center>-->
 <center>
 <a href="https://drive.google.com/uc?export=download&id=11Z5Ivaos1o22te9BNQVEucjbLTILn3V1" 
  target= "_self">
@@ -220,7 +221,7 @@ target= "_self">
 Al-Buruji
 </a>
 </center>
-<marquee><center><img align= "left"  src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/></center><center><h2>Luganda Quran</h2></marquee></center>
+<marquee><center><img align= "left"  src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/></center><center><h2>Luganda Quran</h2></center></marquee>
 
 <center><footer>Contact Me</footer></center>
 <br>
