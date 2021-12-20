@@ -25,6 +25,9 @@
 
 <center><img src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm"/></center>
 
+
+ <a href="https://drive.google.com/uc?export=download&id=15-iEw8k39aoCOtYgYr4AWBWm-LzrL99v" target="_self">CLICK HERE TO DOWNLOAD THE APP</a>
+
 <p>Assalam Alaikum Warahmatullahi Wabarakatuh my muslim <b><small>brothers and sisters</small>, Alhamdullillah </b>, you have visited this page . The major interest for creating this web page is to provide you with downloads for <b> Luganda Translated Quran  <small>audio files</small></b>.  It's meant for those who speak , listen and understand Luganda from any Country.
 
 Looking forwad to updating and adding more audio files , per now they're only 30 in number but soon will be increased in number  inshallah.
@@ -35,7 +38,8 @@ It's the same to our app we shall make  an update for it inshallah.
 
 Thank you.
 <b>
-You can also download our app <a href="https://drive.google.com/uc?export=download&id=15-iEw8k39aoCOtYgYr4AWBWm-LzrL99v">CLICK HERE TO DOWNLOAD THE APP</a>
+You can also download our app <a href="https://drive.google.com/uc?export=download&id=15-iEw8k39aoCOtYgYr4AWBWm-LzrL99v" target="_self"> HERE TO DOWNLOAD THE APP</a>
+</b>
 </p>
 
 <marquee><img align= "left" src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/>
