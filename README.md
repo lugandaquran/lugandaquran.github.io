@@ -38,7 +38,7 @@ It's the same to our app we shall make  an update for it inshallah.
 
 Thank you.
 <b>
-You can also download our app <a href="https://drive.google.com/uc?export=download&id=15-iEw8k39aoCOtYgYr4AWBWm-LzrL99v" target="_self"> HERE TO DOWNLOAD THE APP</a>
+You can also download our app <a href="https://drive.google.com/uc?export=download&id=15-iEw8k39aoCOtYgYr4AWBWm-LzrL99v" target="_self"> CLICK HERE TO DOWNLOAD THE APP</a>
 </b>
 </p>
 
