@@ -1,7 +1,7 @@
 
 <html>
  <head>
-<meta name="google-site-verification" content="neuVuC1NKxUqXmmTg9c3fXteeiFq2J94QyeI_ShFkyo" />
+<meta name="google-site-verification" content="HUsd73rVckzxsMFTfGv61nKeByUIseq23XuvyFSKoCE" />
 	 <title>quran download</title>
 	 <meta charset="UTF-8"/>
 <meta name="viewport"
