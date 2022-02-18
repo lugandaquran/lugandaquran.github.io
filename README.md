@@ -26,7 +26,7 @@
 <center><img src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm"/></center>
 
 <p>
- <a href="https://drive.google.com/uc?export=download&id=15-iEw8k39aoCOtYgYr4AWBWm-LzrL99v" target= "_self">CLICK HERE TO DOWNLOAD THE APP</a>
+ <a href="  https://play.google.com/store/apps/details?id=com.luganda.kuran" target= "_self">CLICK HERE TO DOWNLOAD THE APP</a>
 </p>
 <p>Assalam Alaikum Warahmatullahi Wabarakatuh my muslim <b><small>brothers and sisters</small>, Alhamdullillah </b>, you have visited this page . The major interest for creating this web page is to provide you with downloads for <b> Luganda Translated Quran  <small>audio files</small></b>.  It's meant for those who speak , listen and understand Luganda from any Country.
 
