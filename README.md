@@ -238,6 +238,6 @@ Al-Buruji
 <center>
 <a href="mailto:lugandaquran@gmail.com">
 <a href="#" class="fa fa-google"/></a></center>
-
+<a href="  " target="_self" >My Friend Here</a>
 <!--</body>
  </html>-->
