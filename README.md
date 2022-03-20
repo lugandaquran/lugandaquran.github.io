@@ -1,9 +1,10 @@
 
 <html>
- <head><meta name="google-site-verification" content="0d9B7k9HssfrHucuE1n8cg2N_75BCQBvtUcUqGetzzE" />
+ <head><meta name="msvalidate.01" content="4C72267E3432224BC80072A05FC2EF2A"/>
+<!--<meta name="google-site-verification" content="0d9B7k9HssfrHucuE1n8cg2N_75BCQBvtUcUqGetzzE" />-->
 
 	 <title>quran download</title>
-<meta name="msvalidate.01" content="4C72267E3432224BC80072A05FC2EF2A"/>
+
 	 <meta charset="UTF-8"/>
 <meta name="viewport"
   content="width=device-width, initial-scale=1.0"/>
