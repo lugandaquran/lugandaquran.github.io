@@ -1,6 +1,6 @@
 
 <html>
- <head><meta name="msvalidate.01" content="4C72267E3432224BC80072A05FC2EF2A"/>
+ <head><meta name="msvalidate.01" content="4C72267E3432224BC80072A05FC2EF24"/>
 <!--<meta name="google-site-verification" content="0d9B7k9HssfrHucuE1n8cg2N_75BCQBvtUcUqGetzzE" />-->
 
 	 <title>quran download</title>
