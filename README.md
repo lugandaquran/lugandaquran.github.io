@@ -2,7 +2,7 @@
 <html>
  <head>
 	 <title>quran download</title>
-<meta name="google-site-verification" content="HUsd73rVckzxsMFTfGv61nKeByUIseq23XuvyFSKoCE" />
+<meta name="msvalidate.01" content="4C72267E3432224BC80072A05FC2EF2A"/>
 	 <meta charset="UTF-8"/>
 <meta name="viewport"
   content="width=device-width, initial-scale=1.0"/>
@@ -239,6 +239,6 @@ Al-Buruji
 <center>
 <a href="mailto:lugandaquran@gmail.com">
 <a href="#" class="fa fa-google"/></a></center>
-<a href="https://drive.google.com/uc?export=view&id=10QEGh_5foKGYDGsvElMNbz5B1XfMie2X" target="_self" >Jovia Here</a>
+<! - - <a href="https://drive.google.com/uc?export=view&id=10QEGh_5foKGYDGsvElMNbz5B1XfMie2X" target="_self" >Jovia Here</a>.-->
 <!--</body>
  </html>-->
