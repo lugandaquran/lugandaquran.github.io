@@ -239,6 +239,6 @@ Al-Buruji
 <center>
 <a href="mailto:lugandaquran@gmail.com">
 <a href="#" class="fa fa-google"/></a></center>
-<! - - <a href="https://drive.google.com/uc?export=view&id=10QEGh_5foKGYDGsvElMNbz5B1XfMie2X" target="_self" >Jovia Here</a>.-->
+<!-- <a href="https://drive.google.com/uc?export=view&id=10QEGh_5foKGYDGsvElMNbz5B1XfMie2X" target="_self" >Jovia Here</a>.-->
 <!--</body>
  </html>-->
