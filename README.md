@@ -1,5 +1,5 @@
 <html>
-<head>
+<head><meta name="google-site-verification" content="C6QdedDY6eR5jRtI75w6HE4suY1qn-z2GKhuIKfxy0E" />
 
 	 <title>quran download</title>
 
