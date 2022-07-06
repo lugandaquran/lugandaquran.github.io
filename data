@@ -1,0 +1,610 @@
+[
+  {
+    "title": "An-Naas",
+    "file": "naas",
+    "fileid": "1lYXjjo41qETTeo24y5sa1EDGBaBkHGXf"
+  },
+  {
+    "title": "Al-Falaq",
+    "file": "falaq",
+    "fileid": "1e83r-e9WAvSJfY_ySzjL_EeMWboienmm"
+  },
+  {
+    "title": "Al-Ikhlaas",
+    "file": "ikhlaas",
+    "fileid": "1vyOqWYGBDg-21GlI6yLUAhInQqG5Lbza"
+  },
+  {
+    "title": "An-Nasr",
+    "file": "nasr",
+    "fileid": "1jri2i7yMbTgg3OsP08uwJsvkfOUmrgPC"
+  },
+  {
+    "title": "Al-Masad",
+    "file": "masad",
+    "fileid": "1oTVKiYwYJOp1cNDO8hzaxKg49qmHKXYr"
+  },
+  {
+    "title": "Al-Kafirun",
+    "file": "Kafirun",
+    "fileid": "15xaUW6PHhBL1fo2LFNFY-PoHtA7j27if"
+  },
+  {
+    "title": "Al-Kawthar",
+    "file": "Kawthar",
+    "fileid": "1vuzSo0BSm2DLH2u3c7leSB8kj_3rLQ7k"
+  },
+  {
+    "title": "Al-Quraish",
+    "file": "quraish",
+    "fileid": "157f5ec6Yae6pmeFYxOvfKI172dc2I-nT"
+  },
+  {
+    "title": "Al-Maun",
+    "file": "maun",
+    "fileid": "18ZerdYVRVvi4vLIg9czx_dn3B9GyVPeG"
+  },
+  {
+    "title": "Al-Fil",
+    "file": "fil",
+    "fileid": "11bKaBxMHnijJRU_RRP9YpKJgd7gB3AiQ"
+  },
+  {
+    "title": "Al-Humazah",
+    "file": "humazah",
+    "fileid": "11yVXwahBQy116K20MGNvAPrfwQangP-4"
+  },
+  {
+    "title": "Al-Aswir",
+    "file": "aswir",
+    "fileid": "1k_YNIgrE0FSYIgrqwz7mxg5JWX7Ms-MR"
+  },
+  {
+    "title": "At-Takathur",
+    "file": "takathur",
+    "fileid": "17ZjVMgNFr-XxdCVcetCu236FBZX3C4Pm"
+  },
+  {
+    "title": "Al-Qariah",
+    "file": "qariah",
+    "fileid": "1Bv3qCrWd8ACKBLb_8sdZPSm6JuZQ92Ea"
+  },
+  {
+    "title": "Al-Aadiat",
+    "file": "adiat",
+    "fileid": "1vNP5RkmEZhlSU36T_yWQ9ak7a5Mgm7UE "
+  },
+  {
+    "title": "Az-Zalzalah",
+    "file": "zalzalah",
+    "fileid": "18l97QfUqppmC6DKtjJjVw0w1WT8MKgje"
+  },
+  {
+    "title": "Al-Bayyinah",
+    "file": "Bainah",
+    "fileid": "1983zvFpilQwcoEHfTxryO1Eu-WIy4uIq"
+  },
+  {
+    "title": "Al-Qadir",
+    "file": "qadir",
+    "fileid": "1LJKKevmhXd9RIJH8YVqkKiQGFF2F2tlV"
+  },
+  {
+    "title": "Al-Alaq",
+    "file": "alaq",
+    "fileid": "17HkTT0ULnSdCmaiOW1qTtdj7LHMIOw6S"
+  },
+  {
+    "title": "At-Teen",
+    "file": "tin",
+    "fileid": "1ZQ75G2pPXrRH3nIMA-EVz744rZkg0A2x"
+  },
+  {
+    "title": "As-Shirh",
+    "file": "shirh",
+    "fileid": "18nGTOxTluDppCSlQuDL9T7Acb099cyBu"
+  },
+  {
+    "title": "Adh-Dhuha",
+    "file": "dhuha",
+    "fileid": "1N_ZWYXk223BFlwW1WpHLOGShSbr9GmuJ"
+  },
+  {
+    "title": "Al-Lail",
+    "file": "lail",
+    "fileid": "11aXop4i4hxNpt1fgOnMpjX8n7pynDGKL"
+  },
+  {
+    "title": "Ash-Shams",
+    "file": "shams",
+    "fileid": "1QQ7_YTAhJsm3Rb_HMxAuO1WG0UuV1rGZ"
+  },
+  {
+    "title": "Al-Balad",
+    "file": "balad",
+    "fileid": "1H1uBjc5FvNJIAv92UB2fkGp0eVgrWYWr"
+  },
+  {
+    "title": "Al-Fajir",
+    "file": "fajir",
+    "fileid": "1XsZhJusrQMS-Y8EA1niKdO2KNzi2_wZS"
+  },
+  {
+    "title": "Al-Ghashiah",
+    "file": "ghashiah",
+    "fileid": "1xy3yiOr26opnSo0rR-I72A3h1VSNS2N1"
+  },
+  {
+    "title": "Al-Aalah",
+    "file": "alah",
+    "fileid": "1_nFo8UkauC9U5h39uKwKA1In91PMqwuh"
+  },
+  {
+    "title": "At-Tariq",
+    "file": "tariq",
+    "fileid": "1C2fgA1-rn2qBEL9KL84I9d_KUgyrZypM"
+  },
+  {
+    "title": "Al-Buruji",
+    "file": "Buriji",
+    "fileid": "1eapxLqz6OK33p8knwa48BTWoqdxR44YK"
+  },
+  {
+    "title": "Al-Inshiqaq",
+    "file": "inshiqaq",
+    "fileid": "1-eMwTdPtn375H_Oa2oIEV0ZwIm6AgSDN"
+  },
+  {
+    "title": "Al-Mutafifeen",
+    "file": "mutafifiin",
+    "fileid": "1ERjk3NpX15CuRR3s0amreCFSRLgdUHYR"
+  },
+  {
+    "title": "Al-Inftar",
+    "file": "inftar",
+    "fileid": "1gKExW4CPQtwUqRi7uem-aJxKTaPZ001B"
+  },
+  {
+    "title": "At-Takweer",
+    "file": "takwir",
+    "fileid": "102C-6itS26ZcgV_ZIajMSlf2Dwmc6S1W"
+  },
+  {
+    "title": "Abasa",
+    "file": "abasa",
+    "fileid": "1ehL85zBbMPypkq32fJs_kj3YXtytIJz5"
+  },
+  {
+    "title": "An-Nazi'at",
+    "file": "nazat",
+    "fileid": "1Q6ThA0LmSrjCl2asT1ZDYZIJxCmC0ks9"
+  },
+  {
+    "title": "An-Naba",
+    "file": "naba",
+    "fileid": "1ny51m8P5-y_bUGv9chKssdvCaa3UzKQU"
+  },
+  {
+    "title": "Al-Mulsalat",
+    "file": "mulsalat",
+    "fileid": "1iJJjPSscZPTC9JobM1EaOQIMFClPaM5X"
+  },
+  {
+    "title": "Al-Insaan",
+    "file": "insaan",
+    "fileid": "1B3GrhEKpl44wjPpsOZ0RIcsoDnMm6P8Z"
+  },
+  {
+    "title": "Al-Qiamah",
+    "file": "qiamah",
+    "fileid": "1pmR8MuKbYo1edaRUPM0fEnz1uxRYoVrk"
+  },
+  {
+    "title": "Al-Mudaththir",
+    "file": "mudathir",
+    "fileid": "1bRph_SbE1zkoOFWSxX3OLAHVSbdSUdKb"
+  },
+{
+    "title": "Al-Muzammil",
+    "file": "muzammil",
+    "fileid": "1lc2hWtTJ4X9e0NNxH-ls1i33_w_J18HJ"
+  },
+{
+    "title": "Al-Jin",
+    "file": "jinni",
+    "fileid": "1pU2sVj23r8hKVuMTdy3SoKcv4sSzibJE"
+  },
+
+  {
+    "title": "Nuhu",
+    "file": "nuh",
+    "fileid": "1vK4RlltPfONsXrDEqAYwIB9evaFShIlZ"
+  },
+{
+    "title": "Al-Marij",
+    "file": "marij",
+    "fileid": "157yRdenA0VArNCLIJKxgv8ED9DxYaImS"
+  },
+
+  {
+    "title": "Al-Haqqah",
+    "file": "haqqah",
+    "fileid": "1FKpQJjO0oVzDXQ_RmsWjiCeCA78O_CE7"
+  },
+
+  {
+    "title": "Al-Qalam",
+    "file": "qalam",
+    "fileid": "19M4NeF2AHlsteXPCEJhHugiynSWmG07T"
+  },
+  {
+    "title": "Al-Mulk",
+    "file": "mulku",
+    "fileid": "19G8V_RAx9c9CKAkQ_SfJXhWmvH6BXvIQ"
+  },
+{
+    "title": "At-Tahreem",
+    "file": "tahrim",
+    "fileid": "1pD_ucG3dT7Xc8fC3NtPVMhG_9gcZuXaD"
+  },
+  {
+    "title": "At-Talaq",
+    "file": "talaq",
+    "fileid": "1882OwGrTgXuev46fKaM7LUUIiiCFG3nK"
+  },
+ {
+    "title": "At-Taghabun",
+    "file": "taghabun",
+    "fileid": "1yXDDERe257MNBBVc6OFsIbdDuyJ_eW3t"
+  },
+{
+    "title": "Al-Munafiqun",
+    "file": "munafiqun",
+    "fileid": "1ktqwYpOYtT-gSeCU_unS8K_E6NZYADGf"
+  },
+
+  {
+    "title": "Al-Jumuah",
+    "file": "jumuah",
+    "fileid": "1tzx2G5idHRz0L5HaMp2Nvj-VoIXLfnLo"
+  },
+{
+    "title": "As-Saff",
+    "file": "saff",
+    "fileid": "1uv34UbCexPFm01cNPwekOUPTKSmUaxrg"
+  },
+  {
+    "title": "Al-Mumtahana",
+    "file": "mumtahana",
+    "fileid": "17Xd04dbX0yBJr_Am_MhQRNTlmNvB8Uw0"
+  },
+   {
+    "title": "Al-Hashir",
+    "file": "hashir",
+    "fileid": "1H8333uNtisx7UeL5GxFokC25MGMxtf5j"
+  },
+ {
+    "title": "Al-Mujadila",
+    "file": "mujadila",
+    "fileid": "1GYwAJ4NnJBXng_UlU9km8sCrC-gY9lKe"
+  },
+{
+    "title": "Al-Hadid",
+    "file": "hadid",
+    "fileid": "15rNf7jbsQxcxaxnWc1w_HmMUTMFYv5Rg"
+  },
+ {
+    "title": "Al-waqiah",
+    "file": "waqiah",
+    "fileid": "175cRPggz0oflmqjSuzi-rCb6Sgov2RB2"
+  },
+  {
+    "title": "Al-Rahman",
+    "file": "rahman",
+    "fileid": "1Cl9DLuidJE8p3ZKKBpVPJlhqj0ckGnDI"
+  },
+  
+ {
+    "title": "Al-Qamar",
+    "file": "qamar",
+    "fileid": "1AYK4hsbF27hvHVMUqU7e3SVZU2rE7sTv"
+  },
+{
+    "title": "An-Najim",
+    "file": "najim",
+    "fileid": "18DZOrvo6YBhk-maznuPDTiM9pXOFHzWQ"
+  },
+  {
+    "title": "At-Tuuri",
+    "file": "tuuri",
+    "fileid": "11rSYGRefA9uhbRah8qv1FTibp09yPEV9"
+  },
+ {
+    "title": "Az-Zariat",
+    "file": "zariat",
+    "fileid": "1i-CRQtryM-aS3802aV0nlNl9f9HpAdCd"
+  },
+
+  {
+    "title": "Al-Qaaf",
+    "file": "qaaf",
+    "fileid": "1wcmRU0FQOSKAobtt4nK_CoFC5AKB0t5Q"
+  },
+ {
+    "title": "Az-Hujirat",
+    "file": "hujirat",
+    "fileid": "17lc70ZoSey_g4ATdmbGsDJAXDp_-GNrW"
+  },
+ 
+ 
+  {
+    "title": "Al-Fath",
+    "file": "fath",
+    "fileid": "19u7CatLnpcaliusi0VmlOoElgQaD1U3e"
+  }
+  
+ ,
+   
+  {
+    "title": "Muhammad",
+    "file": "muhammad",
+    "fileid": "17yX8uG0ovHlNLrDNWmWyVTsCeU_F7ZRk"
+  }
+  ,
+ {
+    "title": "Al-Ahqaf",
+    "file": "ahqaf",
+    "fileid": "18ZE7yfJwWSgPljPHwRZm5QpmxkzjFHGF"
+  }
+ ,
+   {
+    "title": "Al-Jathiyah",
+    "file": "jathiyah",
+    "fileid": "18L2RpZB_xCfQ-7rbvaVpsVACrMqU4Ayh"
+  },
+ 
+   {
+    "title": "Ad-Dhukhan",
+    "file": "dhukhan",
+    "fileid": "18N01lPZiYXAeoHTVstH4xBhXGm_A5Hom"
+  }
+,
+  {
+    "title": "Az-Zukhruf",
+    "file": "zukhruf",
+    "fileid": "19uszPofofUF8jDM7Eul82PrdhF-gUFZ2"
+  },
+ {
+    "title": "Ash-Shura",
+    "file": "shura",
+    "fileid": "18YRZLqomN3j_fUD4CHtJIODfIW8b4hM"
+  },
+
+  {
+    "title": "Fussilat",
+    "file": "fussilat",
+    "fileid": "17bWqTR2rR-m9aY6N7n2N_MOw6uVN-0nL"
+  },
+  {
+    "title": "Mu'min",
+    "file": "mumin",
+    "fileid": "182xHf5SfservO6g4bfgtkI9m4PFqUgav"
+  },
+  {
+    "title": "Az-Zumarah",
+    "file": "zumarah",
+    "fileid": "187DkK3bJYqBQsoGlCcXqkJoMM84oiGO1"
+  },
+{
+    "title": "Sad",
+    "file": "sad",
+    "fileid": "18IgceKP53_IrIEK8MzObuGpkZrronVU3"
+  },
+{
+    "title": "As-Saffat",
+    "file": "safat",
+    "fileid": "17oL4QI1DRoWW3z34fPJeXrIvYDsgBa0Q"
+  },
+{
+    "title": "Ya-seen",
+    "file": "yaseen",
+    "fileid": "19sSfLmhzDZjoyleSnmTn327blzFOh70D"
+  },
+{
+    "title": "Fatir",
+    "file": "fatir",
+    "fileid": "17XOC7B8ji_ZokKJZbBZ6rE9WaHirpate"
+  },
+{
+    "title": "Saba",
+    "file": "saba",
+    "fileid": "16IEyVQiAIHkoXbuF5dh6I-qK_2hHk_aF"
+  },
+{
+    "title": "Al-Ahzab",
+    "file": "ahzab",
+    "fileid": "16NyNVG1FnOT1VsBKtPcpqPOlUNrG5FEz"
+  },
+{
+    "title": "As-Sajdah",
+    "file": "sajdah",
+    "fileid": "16y4Pmf_c8PDb_cBFgSJdk3QHCoLB0AIS"
+  },
+{
+    "title": "Luqman",
+    "file": "luqman",
+    "fileid": "17HiW3Dmd-z_8ppGOQAhPZb16kEKNoyoA"
+  },
+{
+    "title": "Ar-Ruum",
+    "file": "ruum",
+    "fileid": "170xmYFEML3XxaloxiOO1TLRxsWD4hKz0"
+  },
+{
+    "title": "Al-Ankabut",
+    "file": "ankabut",
+    "fileid": "16ARxmBbA7NSkBo_btnTV7poNcrkQc5g8"
+  },
+{
+    "title": "Al-Qasas",
+    "file": "qasas",
+    "fileid": "18ZbB3sIxyYesK6_RDnPqXuSVjyx9o2Qn"
+  },
+{
+    "title": "An-Naml",
+    "file": "naml",
+    "fileid": "https://drive.google.com/file/d/15bqUgSA1UnPStDlkW__ITsENHKdwWqu_"
+  },
+{
+    "title": "Ash-Shu'arah",
+    "file": "shuarah",
+    "fileid": "16uDmpZMyh3U-z_1xG30cnL6Me3XVUIsx"
+  },
+{
+    "title": "Al-Furqan",
+    "file": "furqan",
+    "fileid": "1CxY0-pPf1nMPuKENiBM7lzGzy1KjCbj0"
+  },
+{
+    "title": "An-Nur",
+    "file": "nur",
+    "fileid": "15QS3rDvPhpJaRqwcEQmjdCgj-ekG0OZQ"
+  },
+{
+    "title": "Al-Mu'minun",
+    "file": "muminun",
+    "fileid": "15qbmxTcFKmmCjnH8_xA0RkxdWAx-cTY5"
+  },
+{
+    "title": "Al-Hajj",
+    "file": "hajj",
+    "fileid": "14l_uHt4oxbHyDwlH-chX0LHTNVlgbDtx"
+  },
+{
+    "title": "Al-Ambiyah",
+    "file": "ambiyah",
+    "fileid": "14e4mVBpyj5z1ZmGqL72WnFD18vTVlZFw"
+  },
+{
+    "title": "TaHa",
+    "file": "taha",
+    "fileid": "14fS5MMOotrAr_b0X-35MPWdw9WmrE4VR"
+  },
+{
+    "title": "Mariam",
+    "file": "mariam",
+    "fileid": "12i0vfEuBKrNO71pK6krwNUngwoX9k75H"
+  },
+{
+    "title": "Al-Kahf",
+    "file": "kahf",
+    "fileid": "12czgpR7zhuU5MZiGcNo62E-AjWisn0Ka"
+  },
+{
+    "title": "Al-Isra",
+    "file": "Isra",
+    "fileid": "12_oBY7DRQ5L2jBJQzSGFyrX_qIe_tL0A"
+  },
+{
+    "title": "An-Nahl",
+    "file": "nahl",
+    "fileid": "12YPEb090syOjoHzEwqNra-gMgFA2loXK"
+  },
+{
+    "title": "Al-Hijr",
+    "file": "hijr",
+    "fileid": "12AOnGaMdbokLMhNhbuDIH1XzexnEddCw"
+  },
+{
+    "title": "Ibraheem",
+    "file": "ibraheem",
+    "fileid": "124XEd1sRHXndeVhLIfCWTn2iSufU2cJd"
+  },
+{
+    "title": "Araad",
+    "file": "raad",
+    "fileid": "11l1Hn9sBDSZNA45CaDxsoVtGmGfTp9sE"
+  },
+{
+    "title": "Yusuf",
+    "file": "yusuf",
+    "fileid": "11ct1TAnpHczG7zL4jznhVpjzD8K9Fllg"
+  },
+{
+    "title": "Huud",
+    "file": "huud",
+    "fileid": "11bMepIJNTLTIONeIFyxt99QVdSswjR5n"
+  },
+{
+    "title": "Yunus",
+    "file": "yunus",
+    "fileid": "11SWrBfF-42Lh5dPPjj1HNZzYlPeR2g8g"
+  },
+{
+    "title": "Taubah",
+    "file": "taubah",
+    "fileid": "11PjbQKp4BmLVVEu0LQCSGl_6bW7OZeC9"
+  },
+{
+    "title": "Al-Anfal",
+    "file": "anfal",
+    "fileid": "1DEPrlVI_OuMUFjTPSzkVqSAudZLOZZnS"
+  },
+{
+    "title": "Al-Araf",
+    "file": "araf",
+    "fileid": "1DEZAd9jPMFS7qxdWKYwFyzhlrRZ9EB1B"
+  },
+{
+    "title": "An-nam",
+    "file": "anam",
+    "fileid": "11DVnXMbEd-aluvQBk5lf4wKSVugw1Ygn"
+  },
+{
+    "title": "Al-Maidah",
+    "file": "maidah",
+    "fileid": "1D9u2oB9kse8SWphwhv-_LyBvr4i4Rsv3"
+  },
+
+{
+    "title": "An-Nisah_1",
+    "file": "nisah1",
+    "fileid": "1CuFYWurIlimFX73-Ymw50wzJ9Y-T8GQw"
+  },
+{
+    "title": "An-Nisah_2",
+    "file": "nisah2",
+    "fileid": "1CvgmWuG6V5gKBszIQpP10LAIRe4p9F_h"
+  },
+
+{
+    "title": "Al-Imran",
+    "file": "imran",
+    "fileid": "1Cr9XwqHRgI7aDgJt-3cKU0T4CK_CrkF5"
+  },
+{
+    "title": "Al-Baqarah_1",
+    "file": "baqarah1",
+    "fileid": "11CYu_jdTxgvSR_LVWv5bGhfPBUHwuiqU"
+  },
+{
+    "title": "Al-Baqarah_2",
+    "file": "baqarah2",
+    "fileid": "1BoOPJ8RPmnwaHki0fZIg6NDqUWyYEukr"
+  },
+{
+    "title": "Al-Baqarah_3",
+    "file": "baqarah3",
+    "fileid": "1CnAEXv5Wp2vFTkmqbbMrEeCXPQRrgQD4"
+  },
+{
+    "title": "Al-Baqarah_4",
+    "file": "baqarah4",
+    "fileid": "1Ct6HJ6HOIkCnCXF_dq1GbYrUEJJYqVxD"
+  },
+  {
+    "title": "Al-Fatiha",
+    "file": "fatiha",
+    "fileid": "13AnSssvJT9O3-sxnZn29xTYj-Qys_oNy"
+  }
+]
