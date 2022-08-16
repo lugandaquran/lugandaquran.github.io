@@ -1,7 +1,14 @@
 <html>
 <head><meta name="google-site-verification" content="C6QdedDY6eR5jRtI75w6HE4suY1qn-z2GKhuIKfxy0E" />
+<script>
+var adsconsent = confirm ("This page uses cookies to serve you with ads ");
+if(adsconsent){
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7626052805215593"
      crossorigin="anonymous"></script>
+}
+else{
+}
+</script>
  <title>quran download</title>
 
 	 <meta charset="UTF-8"/>
