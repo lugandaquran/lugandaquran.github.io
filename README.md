@@ -25,9 +25,6 @@
 <center><img align= "left" src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/><h1>DOWNLOAD LUGANDA TRANSLATED QURAN</h1></center>
 
 <center><img src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm"/></center>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7626052805215593"
-     crossorigin="anonymous"></script>
-<!-- kuran -->
 
 <p>
  <a href="  https://play.google.com/store/apps/details?id=com.luganda.kuran" target= "_self">CLICK HERE TO DOWNLOAD THE APP</a>
