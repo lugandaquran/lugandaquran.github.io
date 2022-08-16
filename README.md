@@ -1,10 +1,6 @@
 <html>
 <head><meta name="google-site-verification" content="C6QdedDY6eR5jRtI75w6HE4suY1qn-z2GKhuIKfxy0E" />
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7626052805215593"
-     crossorigin="anonymous"></script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7626052805215593"
-     crossorigin="anonymous"></script>
-	 <title>quran download</title>
+ <title>quran download</title>
 
 	 <meta charset="UTF-8"/>
 <meta name="viewport"
@@ -30,15 +26,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7626052805215593"
      crossorigin="anonymous"></script>
 <!-- kuran -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7626052805215593"
-     data-ad-slot="2661150641"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 <p>
  <a href="  https://play.google.com/store/apps/details?id=com.luganda.kuran" target= "_self">CLICK HERE TO DOWNLOAD THE APP</a>
 </p>
@@ -73,18 +61,9 @@ Al-Fatiha
 An-Naas
 </a>
 </center>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7626052805215593"
-     crossorigin="anonymous"></script>
+
 <!-- kuran -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7626052805215593"
-     data-ad-slot="2661150641"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 <center>
 <a href="https://drive.google.com/uc?export=download&id=11hH5Ve_N6yju2n27C0kYRwX6GFf6o7z_"
  target= "_self">
@@ -114,18 +93,7 @@ Al-Masad
 Al-Kafirun
 </a>
 </center>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7626052805215593"
-     crossorigin="anonymous"></script>
-<!-- kuran -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7626052805215593"
-     data-ad-slot="2661150641"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 <center>
 <a href="https://drive.google.com/uc?export=download&id=12IUX47rNQt6v08tZvmpy6jfMgUY2U55i"
 target= "_self">
@@ -203,18 +171,7 @@ Al-Qadir</a>
 Al-Alaq
 </a>
 </center>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7626052805215593"
-     crossorigin="anonymous"></script>
-<!-- kuran -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7626052805215593"
-     data-ad-slot="2661150641"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 <center>
 <a href="https://drive.google.com/uc?export=download&id=11UYC4ByOscUe2c0Yv4GNz8PqMpSt2glI"
 target= "_self">
@@ -281,18 +238,7 @@ target="_self">
 Al-Buruji
 </a>
 </center>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7626052805215593"
-     crossorigin="anonymous"></script>
-<!-- kuran -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7626052805215593"
-     data-ad-slot="2661150641"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 <p>Brothers and Sisters please try out this good web site too </p><a href="https://openmaktaba.com" target="_blank">OpenMaktaba.com</a>
 <marquee><center><img align= "left"  src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/><h2>Luganda Quran</h2></center></marquee>
 
