@@ -1,14 +1,8 @@
 <html>
 <head><meta name="google-site-verification" content="C6QdedDY6eR5jRtI75w6HE4suY1qn-z2GKhuIKfxy0E" />
-<script>
-var adsconsent = confirm ("This page uses cookies to serve you with ads ");
-if(adsconsent){
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7626052805215593"
      crossorigin="anonymous"/>
-}
-else{
-}
-</script>
+
  <title>quran download</title>
 
 	 <meta charset="UTF-8"/>
@@ -29,6 +23,110 @@ else{
 	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"/>
  </head>
 	 <body>
+not had a chance to fully test this so please let me know if you have any issues with the code and I will update the example.
+
+SEE BELOW THIS CODE BLOCK FOR AN UPDATED VERIONS
+
+<html>
+  <head>
+    <title>Your site title</title>
+  </head>
+  <body>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      // Initially pause adsbygoogle (wait for consent to unpause)
+      (adsbygoogle=window.adsbygoogle||[]).pauseAdRequests=1;
+    </script>
+
+    <script>
+      ( function() {
+        // Run this in an interval (every 0.1s) just in case we are still waiting for consent
+        var cnt = 0;
+        var consentSetInterval = setInterval(function(){
+          cnt += 1;
+
+          // Bail if we have not gotten a consent response after 60 seconds.
+          if( cnt === 600 )
+            clearInterval(consentSetInterval);
+
+          if( typeof window.__tcfapi !== 'undefined' ) { // Check if window.__tcfapi has been set
+            clearInterval( consentSetInterval );
+
+            window.__tcfapi( 'addEventListener', 2, function( tcData,listenerSuccess ) {
+              if ( listenerSuccess ) {
+                if( tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'useractioncomplete' ) {
+                  if ( ! tcData.gdprApplies ) {
+
+                    // GDPR DOES NOT APPLY, UnpauseAdRequests
+
+                    // Set request non-personalized ads to false as GDPR does not apply.
+                    (adsbygoogle=window.adsbygoogle||[]).requestNonPersonalizedAds=0;
+
+                    // Unpause ads, as GDPR does not apply.
+                    (adsbygoogle = window.adsbygoogle || []).pauseAdRequests=0;
+
+                  }
+                  else {
+
+                    // GDPR DOES APPLY
+
+                    // Purpose 1 refers to the storage and/or access of information on a device.
+                    var hasDeviceStorageAndAccessConsent = tcData.purpose.consents[1] || false;
+
+                    // Google Requires Consent for Purpose 1
+                    if (hasDeviceStorageAndAccessConsent) {
+                      // GLOBAL VENDOR LIST - https://iabeurope.eu/vendor-list-tcf-v2-0/
+                      // CHECK FOR GOOGLE ADVERTISING PRODUCTS CONSENT. (IAB Vendor ID 755)
+                      var hasGoogleAdvertisingProductsConsent = tcData.vendor.consents[755] || false;
+
+                      // Check if the user gave Google Advertising Products consent (iab vendor 755)
+                      if(hasGoogleAdvertisingProductsConsent) {
+                        var hasPersonalizedProfileConsent = tcData.purpose.consents[3] || false;
+                        var hasPersonalizedAdsConsent = tcData.purpose.consents[4] || false;
+
+                        // Check if have add personalization consent Purpose 3 and 4
+                        if( hasPersonalizedAdsConsent && hasPersonalizedProfileConsent ) {
+                          // Set request non-personalized ads to false.
+                          (adsbygoogle=window.adsbygoogle||[]).requestNonPersonalizedAds=0;
+                        }
+                        else {
+                          // Set request non-personalized ads to true.
+                          (adsbygoogle=window.adsbygoogle||[]).requestNonPersonalizedAds=1;
+                        }
+
+                        // Unpause ads , the user has granted consent for purpose 1 and given google consent.
+                        (adsbygoogle = window.adsbygoogle || []).pauseAdRequests=0;
+                      }
+                    }
+                  }
+                }
+              }
+            } );
+          }
+          cnt++;
+        }, 100);
+      })();
+    </script>
+
+    <!-- One test unit for GDPR -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:970px;height:250px"
+         data-ad-client="ca-pubxxx"
+         data-ad-slot="slot_id">
+    </ins>
+
+    <!-- Another test unit for GDPR -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:250px;height:250px"
+         data-ad-client="ca-pubxxx"
+         data-ad-slot="slot_id">
+    </ins>
+
+    <script>
+      // This will trigger the ad request if ads were unpaused in the CMP consent check above.
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
 <center><img align= "left" src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/><h1>DOWNLOAD LUGANDA TRANSLATED QURAN</h1></center>
 
 <center><img src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm"/></center>
