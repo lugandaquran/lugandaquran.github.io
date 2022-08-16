@@ -23,17 +23,6 @@
 	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"/>
  </head>
 	 <body>
-not had a chance to fully test this so please let me know if you have any issues with the code and I will update the example.
-
-SEE BELOW THIS CODE BLOCK FOR AN UPDATED VERIONS
-
-<html>
-  <head>
-    <title>Your site title</title>
-  </head>
-  <body>
-
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
       // Initially pause adsbygoogle (wait for consent to unpause)
       (adsbygoogle=window.adsbygoogle||[]).pauseAdRequests=1;
