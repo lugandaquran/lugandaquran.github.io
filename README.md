@@ -23,7 +23,7 @@
 	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"/>
  </head>
 	 <body>
-    <script>
+  <!--  <script>
       // Initially pause adsbygoogle (wait for consent to unpause)
       (adsbygoogle=window.adsbygoogle||[]).pauseAdRequests=1;
     </script>
@@ -115,7 +115,7 @@
     <script>
       // This will trigger the ad request if ads were unpaused in the CMP consent check above.
       (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
+    </script>-->
 <center><img align= "left" src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/><h1>DOWNLOAD LUGANDA TRANSLATED QURAN</h1></center>
 
 <center><img src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm"/></center>
