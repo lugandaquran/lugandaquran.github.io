@@ -137,7 +137,9 @@ You can also download our app <a href="https://play.google.com/store/apps/detail
  target="_self"> CLICK HERE TO DOWNLOAD THE APP</a>
 </b>
 </p>
-
+</b>
+<a href="https://play.google.com/store/apps/details?id=com.anawawiaudiohadith" target="_self"><h2>CLICK HERE TO DOWNLOAD AN ENGLISH AUDIO HADITH APP TOO FROM PLAY STORE</h2></a>
+</b>
 <marquee><img align= "left" src= "https://drive.google.com/uc?export=view&id=1-EsUUOOpr1DVYNwQk0sXd0ld6bQkNgmm" width= "50" height= "50"/>
 
 <h1>DOWNLOAD FROM HERE</h1>
