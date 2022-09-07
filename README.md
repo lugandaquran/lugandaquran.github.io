@@ -132,10 +132,10 @@ It's the same to our app we shall make  an update for it inshallah.
 </b>
 
 Thank you.
-<b>
+
 You can also download our app <a href="https://play.google.com/store/apps/details?id=com.luganda.kuran"
  target="_self"> CLICK HERE TO DOWNLOAD THE APP</a>
-</b>
+
 </p>
 </b>
 <a href="https://play.google.com/store/apps/details?id=com.anawawiaudiohadith" target="_self"><h2>CLICK HERE TO DOWNLOAD AN ENGLISH AUDIO HADITH APP TOO FROM PLAY STORE</h2></a>
