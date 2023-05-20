@@ -1,609 +1,727 @@
 [
   {
-    "title": "An-Naas",
+  "i":"114",
+    "title": "An-Naas | Mankind ",
     "file": "naas",
     "fileid": "1lYXjjo41qETTeo24y5sa1EDGBaBkHGXf"
   },
   {
-    "title": "Al-Falaq",
+  "i":"113",
+    "title": "Al-Falaq |  Daybreak ",
     "file": "falaq",
     "fileid": "1e83r-e9WAvSJfY_ySzjL_EeMWboienmm"
   },
   {
-    "title": "Al-Ikhlaas",
+  "i":"112",
+    "title":"Al-Ikhlaas | Purification ",
     "file": "ikhlaas",
     "fileid": "1vyOqWYGBDg-21GlI6yLUAhInQqG5Lbza"
   },
   {
-    "title": "An-Nasr",
+  "i":111",
+    "title": "An-Nasr | Victory ",
     "file": "nasr",
     "fileid": "1jri2i7yMbTgg3OsP08uwJsvkfOUmrgPC"
   },
   {
-    "title": "Al-Masad",
+  "i":"110",
+    "title": "Al-Masad |  Fiber ",
     "file": "masad",
     "fileid": "1oTVKiYwYJOp1cNDO8hzaxKg49qmHKXYr"
   },
   {
-    "title": "Al-Kafirun",
+  "i":"109",
+    "title": "Al-Kafirun | Disbelievers ",
     "file": "Kafirun",
     "fileid": "15xaUW6PHhBL1fo2LFNFY-PoHtA7j27if"
   },
   {
-    "title": "Al-Kawthar",
+  "i":"108",
+    "title": "Al-Kawthar | The Most Abundant of Good ",
     "file": "Kawthar",
     "fileid": "1vuzSo0BSm2DLH2u3c7leSB8kj_3rLQ7k"
   },
   {
-    "title": "Al-Quraish",
+  "i":"107",
+    "title": "Al-Quraish | Tribe of Quraish ",
     "file": "quraish",
     "fileid": "157f5ec6Yae6pmeFYxOvfKI172dc2I-nT"
   },
   {
-    "title": "Al-Maun",
+  "i":"106",
+    "title": "Al-Maun | Assistance",
     "file": "maun",
     "fileid": "18ZerdYVRVvi4vLIg9czx_dn3B9GyVPeG"
   },
   {
-    "title": "Al-Fil",
+  "i":"105",
+    "title": "Al-Fil | The Elephant ",
     "file": "fil",
     "fileid": "11bKaBxMHnijJRU_RRP9YpKJgd7gB3AiQ"
   },
   {
-    "title": "Al-Humazah",
+  "i":"104",
+    "title": "Al-Humazah | The Scorner ",
     "file": "humazah",
     "fileid": "11yVXwahBQy116K20MGNvAPrfwQangP-4"
   },
   {
-    "title": "Al-Aswir",
+  "i":"103",
+    "title": "Al-Aswir | Time ",
     "file": "aswir",
     "fileid": "1k_YNIgrE0FSYIgrqwz7mxg5JWX7Ms-MR"
   },
   {
-    "title": "At-Takathur",
+  "i":"102",
+    "title": "At-Takathur | Competition In Increase ",
     "file": "takathur",
     "fileid": "17ZjVMgNFr-XxdCVcetCu236FBZX3C4Pm"
   },
   {
-    "title": "Al-Qariah",
+  "i":"101",
+    "title": "Al-Qariah | That Which Strikes ",
     "file": "qariah",
     "fileid": "1Bv3qCrWd8ACKBLb_8sdZPSm6JuZQ92Ea"
   },
   {
-    "title": "Al-Aadiat",
+  "i":"100",
+    "title": "Al-Aadiat | The Racers ",
     "file": "adiat",
     "fileid": "1vNP5RkmEZhlSU36T_yWQ9ak7a5Mgm7UE "
   },
   {
-    "title": "Az-Zalzalah",
+  "i":"099",
+    "title": "Az-Zalzalah | Earth Quake ",
     "file": "zalzalah",
     "fileid": "18l97QfUqppmC6DKtjJjVw0w1WT8MKgje"
   },
   {
-    "title": "Al-Bayyinah",
+  "i":"098",
+    "title": "Al-Bayyinah | Clear Evidence ",
     "file": "Bainah",
     "fileid": "1983zvFpilQwcoEHfTxryO1Eu-WIy4uIq"
   },
   {
-    "title": "Al-Qadir",
+  "i":"097",
+    "title": "Al-Qadir | Decree or Destiny ",
     "file": "qadir",
     "fileid": "1LJKKevmhXd9RIJH8YVqkKiQGFF2F2tlV"
   },
   {
-    "title": "Al-Alaq",
+  "i":"096",
+    "title": "Al-Alaq | The Clinging Substance ",
     "file": "alaq",
     "fileid": "17HkTT0ULnSdCmaiOW1qTtdj7LHMIOw6S"
   },
   {
-    "title": "At-Teen",
+  "i":"095",
+    "title": "At-Teen (Omutii omutini) | The Fig",
     "file": "tin",
     "fileid": "1ZQ75G2pPXrRH3nIMA-EVz744rZkg0A2x"
   },
   {
-    "title": "As-Shirh",
+  "i":"094",
+    "title": "As-Shirh | Expansion ",
     "file": "shirh",
     "fileid": "18nGTOxTluDppCSlQuDL9T7Acb099cyBu"
   },
   {
-    "title": "Adh-Dhuha",
+  "i":"093",
+    "title": "Adh-Dhuha | Morning Brightness ",
     "file": "dhuha",
     "fileid": "1N_ZWYXk223BFlwW1WpHLOGShSbr9GmuJ"
   },
   {
-    "title": "Al-Lail",
+  "i":"092",
+    "title": "Al-Lail | Night",
     "file": "lail",
     "fileid": "11aXop4i4hxNpt1fgOnMpjX8n7pynDGKL"
   },
   {
-    "title": "Ash-Shams",
+  "i":"091",
+    "title": "Ash-Shams | The Sun ",
     "file": "shams",
     "fileid": "1QQ7_YTAhJsm3Rb_HMxAuO1WG0UuV1rGZ"
   },
   {
-    "title": "Al-Balad",
+  "i":"090",
+    "title": "Al-Balad | The City ",
     "file": "balad",
     "fileid": "1H1uBjc5FvNJIAv92UB2fkGp0eVgrWYWr"
   },
   {
-    "title": "Al-Fajir",
+  "i":"089",
+    "title": "Al-Fajir | The Dawn ",
     "file": "fajir",
     "fileid": "1XsZhJusrQMS-Y8EA1niKdO2KNzi2_wZS"
   },
   {
-    "title": "Al-Ghashiah",
+  "i":"088",
+    "title": "Al-Ghashiah | The Overwhelming ",
     "file": "ghashiah",
     "fileid": "1xy3yiOr26opnSo0rR-I72A3h1VSNS2N1"
   },
   {
-    "title": "Al-Aalah",
+  "i":"087",
+    "title": "Al-Aalah | The Most High ",
     "file": "alah",
     "fileid": "1_nFo8UkauC9U5h39uKwKA1In91PMqwuh"
   },
   {
-    "title": "At-Tariq",
+  "i":"086",
+    "title": "At-Tariq | The Night Comer ",
     "file": "tariq",
     "fileid": "1C2fgA1-rn2qBEL9KL84I9d_KUgyrZypM"
   },
   {
+  "i":"085",
     "title": "Al-Buruji",
     "file": "Buriji",
     "fileid": "1eapxLqz6OK33p8knwa48BTWoqdxR44YK"
   },
   {
-    "title": "Al-Inshiqaq",
+  "i":"084",
+    "title": "Al-Inshiqaq | The Splitting ",
     "file": "inshiqaq",
     "fileid": "1-eMwTdPtn375H_Oa2oIEV0ZwIm6AgSDN"
   },
   {
-    "title": "Al-Mutafifeen",
+  "i":"083",
+    "title": "Al-Mutafifeen | The One Who Gives Less ",
     "file": "mutafifiin",
     "fileid": "1ERjk3NpX15CuRR3s0amreCFSRLgdUHYR"
   },
   {
-    "title": "Al-Inftar",
+  "i":"082",
+    "title": "Al-Inftar | The Breaking Apart ",
     "file": "inftar",
     "fileid": "1gKExW4CPQtwUqRi7uem-aJxKTaPZ001B"
   },
   {
-    "title": "At-Takweer",
+  "i":"081",
+    "title": "At-Takweer | The Wrapping",
     "file": "takwir",
     "fileid": "102C-6itS26ZcgV_ZIajMSlf2Dwmc6S1W"
   },
   {
-    "title": "Abasa",
+  "i":"080",
+    "title": "Abasa | He Frowned ",
     "file": "abasa",
     "fileid": "1ehL85zBbMPypkq32fJs_kj3YXtytIJz5"
   },
   {
-    "title": "An-Nazi'at",
+  "i":"079",
+    "title": "An-Nazi'at | The Extractors",
     "file": "nazat",
     "fileid": "1Q6ThA0LmSrjCl2asT1ZDYZIJxCmC0ks9"
   },
   {
-    "title": "An-Naba",
+  "i":"078",
+    "title": "An-Naba | The News ",
     "file": "naba",
     "fileid": "1ny51m8P5-y_bUGv9chKssdvCaa3UzKQU"
   },
   {
-    "title": "Al-Mulsalat",
+  "i":"077",
+    "title": "Al-Mulsalat | Those Sent Forth ",
     "file": "mulsalat",
     "fileid": "1iJJjPSscZPTC9JobM1EaOQIMFClPaM5X"
   },
   {
-    "title": "Al-Insaan",
+  "i":"076",
+    "title": "Al-Insaan | Man ",
     "file": "insaan",
     "fileid": "1B3GrhEKpl44wjPpsOZ0RIcsoDnMm6P8Z"
   },
   {
-    "title": "Al-Qiamah",
+  "i":"075",
+    "title": "Al-Qiamah | The Resurrection",
     "file": "qiamah",
     "fileid": "1pmR8MuKbYo1edaRUPM0fEnz1uxRYoVrk"
   },
   {
-    "title": "Al-Mudaththir",
+  "i":"074",
+    "title": "Al-Mudaththir | EYEBISE MULUGOYE",
     "file": "mudathir",
     "fileid": "1bRph_SbE1zkoOFWSxX3OLAHVSbdSUdKb"
   },
 {
-    "title": "Al-Muzammil",
+"i":"073",
+    "title": "Al-Muzammil | EYEZIINZE MU LUGOYE",
     "file": "muzammil",
     "fileid": "1lc2hWtTJ4X9e0NNxH-ls1i33_w_J18HJ"
   },
 {
-    "title": "Al-Jin",
+"i":"072",
+    "title": "Al-Jin | The Jin",
     "file": "jinni",
     "fileid": "1pU2sVj23r8hKVuMTdy3SoKcv4sSzibJE"
   },
 
   {
-    "title": "Nuhu",
+  "i":"071",
+    "title": "Nuhu | Noah",
     "file": "nuh",
     "fileid": "1vK4RlltPfONsXrDEqAYwIB9evaFShIlZ"
   },
 {
-    "title": "Al-Marij",
+"i":"070",
+    "title": "Al-Ma'arij | The Elevated Passages",
     "file": "marij",
     "fileid": "157yRdenA0VArNCLIJKxgv8ED9DxYaImS"
   },
 
   {
-    "title": "Al-Haqqah",
+  "i":069",
+    "title": "Al-Haqqah | The Inevitable Reality",
     "file": "haqqah",
     "fileid": "1FKpQJjO0oVzDXQ_RmsWjiCeCA78O_CE7"
   },
 
   {
-    "title": "Al-Qalam",
+  "i":"068",
+    "title": "Al-Qalam | The Pen",
     "file": "qalam",
     "fileid": "19M4NeF2AHlsteXPCEJhHugiynSWmG07T"
   },
   {
-    "title": "Al-Mulk",
+  "i":"067",
+    "title": "Al-Mulk | The Dominion ",
     "file": "mulku",
     "fileid": "19G8V_RAx9c9CKAkQ_SfJXhWmvH6BXvIQ"
   },
 {
-    "title": "At-Tahreem",
+"i":"066",
+    "title": "At-Tahreem | The Prohibition ",
     "file": "tahrim",
     "fileid": "1pD_ucG3dT7Xc8fC3NtPVMhG_9gcZuXaD"
   },
   {
-    "title": "At-Talaq",
+  "i":"065",
+    "title": "At-Talaq | Divorce ",
     "file": "talaq",
     "fileid": "1882OwGrTgXuev46fKaM7LUUIiiCFG3nK"
   },
  {
-    "title": "At-Taghabun",
+ "i":"064",
+    "title": "At-Taghabun | Deprivation ",
     "file": "taghabun",
     "fileid": "1yXDDERe257MNBBVc6OFsIbdDuyJ_eW3t"
   },
 {
-    "title": "Al-Munafiqun",
+"i":"063",
+    "title": "Al-Munafiqun | Hypocrites ",
     "file": "munafiqun",
     "fileid": "1ktqwYpOYtT-gSeCU_unS8K_E6NZYADGf"
   },
 
   {
-    "title": "Al-Jumuah",
+  "i":"062",
+    "title": "Al-Jumuah | Friday ",
     "file": "jumuah",
     "fileid": "1tzx2G5idHRz0L5HaMp2Nvj-VoIXLfnLo"
   },
 {
-    "title": "As-Saff",
+"i":"061",
+    "title": "As-Saff | The Row",
     "file": "saff",
     "fileid": "1uv34UbCexPFm01cNPwekOUPTKSmUaxrg"
   },
   {
-    "title": "Al-Mumtahana",
+  "i":"060",
+    "title": "Al-Mumtahana | The Tested ",
     "file": "mumtahana",
     "fileid": "17Xd04dbX0yBJr_Am_MhQRNTlmNvB8Uw0"
   },
    {
-    "title": "Al-Hashir",
+   "i":"059",
+    "title": "Al-Hashir | The Gathering",
     "file": "hashir",
     "fileid": "1H8333uNtisx7UeL5GxFokC25MGMxtf5j"
   },
  {
-    "title": "Al-Mujadila",
+ "i":"058",
+    "title": "Al-Mujadila | The Reasoning",
     "file": "mujadila",
     "fileid": "1GYwAJ4NnJBXng_UlU9km8sCrC-gY9lKe"
   },
 {
-    "title": "Al-Hadid",
+"i":"057",
+    "title": "Al-Hadid | Iron",
     "file": "hadid",
     "fileid": "15rNf7jbsQxcxaxnWc1w_HmMUTMFYv5Rg"
   },
  {
-    "title": "Al-Waqiah",
+ "i":"056",
+    "title": "Al-Waqiah | The Event",
     "file": "waqiah",
     "fileid": "175cRPggz0oflmqjSuzi-rCb6Sgov2RB2"
   },
   {
-    "title": "Al-Rahman",
+  "i":"055",
+    "title": "Al-Rahman | The Most Gracious",
     "file": "rahman",
     "fileid": "1Cl9DLuidJE8p3ZKKBpVPJlhqj0ckGnDI"
   },
-  
+
  {
-    "title": "Al-Qamar",
+ "i":"054",
+    "title": "Al-Qamar | The Moon",
     "file": "qamar",
     "fileid": "1AYK4hsbF27hvHVMUqU7e3SVZU2rE7sTv"
   },
 {
-    "title": "An-Najim",
+"i":"053",
+    "title": "An-Najim | The Star ",
     "file": "najim",
     "fileid": "18DZOrvo6YBhk-maznuPDTiM9pXOFHzWQ"
   },
   {
-    "title": "At-Tuuri",
+  "i":"052",
+    "title": "At-Tuuri | The Mount ",
     "file": "tuuri",
     "fileid": "11rSYGRefA9uhbRah8qv1FTibp09yPEV9"
   },
  {
-    "title": "Az-Zariat",
+ "i":"051",
+    "title": "Az-Zariat | The Scatterers",
     "file": "zariat",
     "fileid": "1i-CRQtryM-aS3802aV0nlNl9f9HpAdCd"
   },
 
   {
+  "i":"050",
     "title": "Al-Qaaf",
     "file": "qaaf",
     "fileid": "1wcmRU0FQOSKAobtt4nK_CoFC5AKB0t5Q"
   },
  {
-    "title": "Az-Hujirat",
+ "i":"049",
+    "title": "Az-Hujirat | Dwellings",
     "file": "hujirat",
     "fileid": "17lc70ZoSey_g4ATdmbGsDJAXDp_-GNrW"
   },
- 
- 
+
+
   {
-    "title": "Al-Fath",
+  "i":"048",
+    "title": "Al-Fath | The Victory ",
     "file": "fath",
     "fileid": "19u7CatLnpcaliusi0VmlOoElgQaD1U3e"
   }
-  
+
  ,
-   
+
   {
+  "i":"047",
     "title": "Muhammad",
     "file": "muhammad",
     "fileid": "17yX8uG0ovHlNLrDNWmWyVTsCeU_F7ZRk"
   }
   ,
  {
-    "title": "Al-Ahqaf",
+ "i":"046",
+    "title": "Al-Ahqaf | The Valley ",
     "file": "ahqaf",
     "fileid": "18ZE7yfJwWSgPljPHwRZm5QpmxkzjFHGF"
   }
  ,
    {
-    "title": "Al-Jathiyah",
+   "i":"045",
+    "title": "Al-Jathiyah | The Kneeling",
     "file": "jathiyah",
     "fileid": "18L2RpZB_xCfQ-7rbvaVpsVACrMqU4Ayh"
   },
- 
+
    {
-    "title": "Ad-Dhukhan",
+   "i":"044",
+    "title": "Ad-Dhukhan | The Smoke",
     "file": "dhukhan",
     "fileid": "18N01lPZiYXAeoHTVstH4xBhXGm_A5Hom"
   }
 ,
   {
-    "title": "Az-Zukhruf",
+  "i":"043",
+    "title": "Az-Zukhruf | The Gold ",
     "file": "zukhruf",
     "fileid": "19uszPofofUF8jDM7Eul82PrdhF-gUFZ2"
   },
  {
-    "title": "Ash-Shura",
+ "i":"042",
+     "title": "Ash-Shura | The Consultation ",
     "file": "shura",
     "fileid": "18YRZLqomN3j_fUD4CHtJIODfIW8b4hM"
   },
 
   {
-    "title": "Fussilat",
+  "i":"041",
+    "title": "Fussilat | Distinguished ",
     "file": "fussilat",
     "fileid": "17bWqTR2rR-m9aY6N7n2N_MOw6uVN-0nL"
   },
   {
-    "title": "Mu'min",
-    "file": "mumin",
+  "i":"040",
+    "title": "Ghafar | The Forgiver ",
+    "file": "ghafar",
     "fileid": "182xHf5SfservO6g4bfgtkI9m4PFqUgav"
   },
   {
-    "title": "Az-Zumarah",
+  "i":039",
+    "title": "Az-Zumarah | The Groups",
     "file": "zumarah",
     "fileid": "187DkK3bJYqBQsoGlCcXqkJoMM84oiGO1"
   },
 {
+"i":"038",
     "title": "Sad",
     "file": "sad",
     "fileid": "18IgceKP53_IrIEK8MzObuGpkZrronVU3"
   },
 {
-    "title": "As-Saffat",
+"i":"037",
+    "title": "As-Saffat | Those Ranges In Ranks",
     "file": "safat",
     "fileid": "17oL4QI1DRoWW3z34fPJeXrIvYDsgBa0Q"
   },
 {
-    "title": "Ya-seen",
+"i":"036",
+    "title": "Ya-Seen",
     "file": "yaseen",
     "fileid": "19sSfLmhzDZjoyleSnmTn327blzFOh70D"
   },
 {
-    "title": "Fatir",
+"i":"035",
+    "title": "Fatir | The Originator ",
     "file": "fatir",
     "fileid": "17XOC7B8ji_ZokKJZbBZ6rE9WaHirpate"
   },
 {
-    "title": "Saba",
+"i":"034",
+    "title": "Saba | The Sabeans",
     "file": "saba",
     "fileid": "16IEyVQiAIHkoXbuF5dh6I-qK_2hHk_aF"
   },
 {
-    "title": "Al-Ahzab",
+"i":"033",
+    "title": "Al-Ahzab | The Combined Forces",
     "file": "ahzab",
     "fileid": "16NyNVG1FnOT1VsBKtPcpqPOlUNrG5FEz"
   },
 {
-    "title": "As-Sajdah",
+"i":"032",
+    "title": "As-Sajdah | The Prostration ",
     "file": "sajdah",
     "fileid": "16y4Pmf_c8PDb_cBFgSJdk3QHCoLB0AIS"
   },
 {
+"i":"031",
     "title": "Luqman",
     "file": "luqman",
     "fileid": "17HiW3Dmd-z_8ppGOQAhPZb16kEKNoyoA"
   },
 {
-    "title": "Ar-Ruum",
+"i":"030",
+    "title": "Ar-Ruum | The Romans",
     "file": "ruum",
     "fileid": "170xmYFEML3XxaloxiOO1TLRxsWD4hKz0"
   },
 {
-    "title": "Al-Ankabut",
+"i":"029",
+    "title": "Al-Ankabut | The Spider ",
     "file": "ankabut",
     "fileid": "16ARxmBbA7NSkBo_btnTV7poNcrkQc5g8"
   },
 {
-    "title": "Al-Qasas",
+"i":"028",
+    "title": "Al-Qasas | The Stories",
     "file": "qasas",
     "fileid": "18ZbB3sIxyYesK6_RDnPqXuSVjyx9o2Qn"
   },
 {
-    "title": "An-Naml",
+"i":"027",
+    "title": "An-Naml | The Ants ",
     "file": "naml",
     "fileid": "https://drive.google.com/file/d/15bqUgSA1UnPStDlkW__ITsENHKdwWqu_"
   },
 {
-    "title": "Ash-Shu'arah",
+"i":"026",
+    "title": "Ash-Shu'arah | The Poets ",
     "file": "shuarah",
     "fileid": "16uDmpZMyh3U-z_1xG30cnL6Me3XVUIsx"
   },
 {
-    "title": "Al-Furqan",
+"i":"025",
+    "title": "Al-Furqan | The Criterion",
     "file": "furqan",
     "fileid": "1CxY0-pPf1nMPuKENiBM7lzGzy1KjCbj0"
   },
 {
-    "title": "An-Nur",
+"i":"024",
+    "title": "An-Nur | The Light",
     "file": "nur",
     "fileid": "15QS3rDvPhpJaRqwcEQmjdCgj-ekG0OZQ"
   },
 {
-    "title": "Al-Mu'minun",
+"i":"023",
+    "title": "Al-Mu'minun | The Believers",
     "file": "muminun",
     "fileid": "15qbmxTcFKmmCjnH8_xA0RkxdWAx-cTY5"
   },
 {
-    "title": "Al-Hajj",
+"i":"022",
+    "title": "Al-Hajj | The Pilgrimage",
     "file": "hajj",
     "fileid": "14l_uHt4oxbHyDwlH-chX0LHTNVlgbDtx"
   },
 {
-    "title": "Al-Ambiyah",
+"i":"021",
+    "title": "Al-Ambiyah | The Prophets ",
     "file": "ambiyah",
     "fileid": "14e4mVBpyj5z1ZmGqL72WnFD18vTVlZFw"
   },
 {
+"i":"020",
     "title": "TaHa",
     "file": "taha",
     "fileid": "14fS5MMOotrAr_b0X-35MPWdw9WmrE4VR"
   },
 {
-    "title": "Mariam",
+"i":"019",
+    "title": "Mariam ",
     "file": "mariam",
     "fileid": "12i0vfEuBKrNO71pK6krwNUngwoX9k75H"
   },
 {
-    "title": "Al-Kahf",
+"i":"018",
+    "title": "Al-Kahf | The Cave",
     "file": "kahf",
     "fileid": "12czgpR7zhuU5MZiGcNo62E-AjWisn0Ka"
   },
 {
-    "title": "Al-Isra",
+"i":"017",
+    "title": "Al-Isra | The Night Journey",
     "file": "Isra",
     "fileid": "12_oBY7DRQ5L2jBJQzSGFyrX_qIe_tL0A"
   },
 {
-    "title": "An-Nahl",
+"i":"016",
+    "title": "An-Nahl | The Bees",
     "file": "nahl",
     "fileid": "12YPEb090syOjoHzEwqNra-gMgFA2loXK"
   },
 {
-    "title": "Al-Hijr",
+"i":"015",
+    "title": "Al-Hijr (OLWAAZI) | The Rocky Tract",
     "file": "hijr",
     "fileid": "12AOnGaMdbokLMhNhbuDIH1XzexnEddCw"
   },
 {
-    "title": "Ibraheem",
+"i":"014",
+    "title": "Ibraheem | Ibraheem",
     "file": "ibraheem",
     "fileid": "124XEd1sRHXndeVhLIfCWTn2iSufU2cJd"
   },
 {
-    "title": "Araad",
+"i":"013",
+    "title": "Araad | The Thunder",
     "file": "raad",
     "fileid": "11l1Hn9sBDSZNA45CaDxsoVtGmGfTp9sE"
   },
 {
+"i":"012",
     "title": "Yusuf",
     "file": "yusuf",
     "fileid": "11ct1TAnpHczG7zL4jznhVpjzD8K9Fllg"
   },
 {
-    "title": "Huud",
+"i":"011",
+    "title": "Huud ",
     "file": "huud",
     "fileid": "11bMepIJNTLTIONeIFyxt99QVdSswjR5n"
   },
 {
-    "title": "Yunus",
+"i":"010",
+    "title": "Yunus | Prophet Yunus",
     "file": "yunus",
     "fileid": "11SWrBfF-42Lh5dPPjj1HNZzYlPeR2g8g"
   },
 {
-    "title": "Taubah",
+"i":"009",
+    "title": "Taubah | The Repentance",
     "file": "taubah",
     "fileid": "11PjbQKp4BmLVVEu0LQCSGl_6bW7OZeC9"
   },
 {
-    "title": "Al-Anfal",
+"i":"008",
+    "title": "Al-Anfal | The Spoils Of War",
     "file": "anfal",
     "fileid": "1DEPrlVI_OuMUFjTPSzkVqSAudZLOZZnS"
   },
 {
-    "title": "Al-Araf",
+"i":"007",
+    "title": "Al-Araf | The Heights",
     "file": "araf",
     "fileid": "1DEZAd9jPMFS7qxdWKYwFyzhlrRZ9EB1B"
   },
 {
-    "title": "An-Nam",
+"i":"006",
+    "title": "An-Nam | The Cattle",
     "file": "anam",
     "fileid": "11DVnXMbEd-aluvQBk5lf4wKSVugw1Ygn"
   },
 {
-    "title": "Al-Maidah",
+"i":"005",
+    "title": "Al-Maidah | The Table",
     "file": "maidah",
     "fileid": "1D9u2oB9kse8SWphwhv-_LyBvr4i4Rsv3"
   },
 
 {
-    "title": "An-Nisah_1",
+"i":"004_1",
+    "title": "An-Nisah_1 | The Women",
     "file": "nisah1",
     "fileid": "1CuFYWurIlimFX73-Ymw50wzJ9Y-T8GQw"
   },
 {
-    "title": "An-Nisah_2",
+"i":"004_2",
+    "title": "An-Nisah_2 | The Women",
     "file": "nisah2",
     "fileid": "1CvgmWuG6V5gKBszIQpP10LAIRe4p9F_h"
   },
 
 {
-    "title": "Al-Imran",
+"i":"003",
+    "title": "Al-Imran | The Family of Imran",
     "file": "imran",
     "fileid": "1Cr9XwqHRgI7aDgJt-3cKU0T4CK_CrkF5"
   },
 {
-    "title": "Al-Baqarah_1",
+"i":"002_1",
+    "title": "Al-Baqarah_1 | The Cow",
     "file": "baqarah1",
     "fileid": "11CYu_jdTxgvSR_LVWv5bGhfPBUHwuiqU"
   },
 {
-    "title": "Al-Baqarah_2",
+"i":"002_2",
+    "title": "Al-Baqarah_2 | The Cow",
     "file": "baqarah2",
     "fileid": "1BoOPJ8RPmnwaHki0fZIg6NDqUWyYEukr"
   },
 {
-    "title": "Al-Baqarah_3",
+"i":"002_3",
+    "title": "Al-Baqarah_3 | The Cow",
     "file": "baqarah3",
     "fileid": "1CnAEXv5Wp2vFTkmqbbMrEeCXPQRrgQD4"
   },
 {
-    "title": "Al-Baqarah_4",
+"i":"002_4",
+    "title": "Al-Baqarah_4 | The Cow",
     "file": "baqarah4",
     "fileid": "1Ct6HJ6HOIkCnCXF_dq1GbYrUEJJYqVxD"
   },
   {
-    "title": "Al-Fatiha",
+   "i":"001",
+    "title": "Al-Fatiha | The Opening",
     "file": "fatiha",
     "fileid": "13AnSssvJT9O3-sxnZn29xTYj-Qys_oNy"
   }
